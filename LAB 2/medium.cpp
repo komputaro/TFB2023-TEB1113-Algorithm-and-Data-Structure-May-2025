@@ -1,3 +1,11 @@
+/*
+
+    Search in a row wise and column wise sorted matrix
+
+    Given a matrix mat[][] and an integer x, the task is to check if x is present in mat[][] or not. Every row and column of the matrix is sorted in increasing order.
+
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;

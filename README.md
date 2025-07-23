@@ -14,3 +14,5 @@ ID : 24003464
 | LAB 5 | 1. [Stack](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/blob/main/LAB%205/Stack.cpp) |
 | LAB 6 | 1. [Queue](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/blob/main/LAB%206/Queue.cpp) |
 | LAB 7 | 1. [Tree](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/blob/86ff1d0762db1242b3a08f8ebfe89e5a46770de9/LAB%207/Tree.cpp) |
+| LAB 8 | 1. [Binary Search Tree](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/tree/7abe05630149bd96c609ce1e600ca9a304230ebe/LAB%208) |
+| LAB 9 | 1. [Breadth First Search](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/tree/7abe05630149bd96c609ce1e600ca9a304230ebe/LAB%209) |

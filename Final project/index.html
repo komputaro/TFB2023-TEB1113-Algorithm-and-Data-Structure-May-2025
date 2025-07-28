@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SearchCompare: Linear vs Binary</title>
+  <link rel="stylesheet" href="Style.css" />
+</head>
+<body>
+
+<img src="Header.png" alt="Search Visualizer Banner" class="header-img" />
+
+  <main class="container">
+    <h1> 🔍 SearchCompare</h1>
+    <p class="subtitle">Comparison of Linear and Binary Search</p>
+
+    <section class="section">
+      <label>🔢 Enter numbers (comma-separated):</label>
+      <input type="text" id="arrayInput" placeholder="e.g. 2,9,3,1,8" />
+
+      <label>🎯 Enter target number:</label>
+      <input type="number" id="targetInput" placeholder="e.g. 3" />
+
+      <div class="buttons">
+        <button onclick="startComparison()">Compare Searches</button>
+      </div>
+    </section>
+
+    <section class="visualization">
+      <h2>📦 Linear Search </h2>
+      <div id="linearBoxes" class="array-boxes"></div>
+      <pre id="linearExplanation" class="step-text"></pre>
+
+      <h2>🧮 Binary Search </h2>
+      <div id="binaryBoxes" class="array-boxes"></div>
+      <pre id="binaryExplanation" class="step-text"></pre>
+    </section>
+
+    <section class="result">
+      <h2>📊 Comparison Summary</h2>
+      <div id="comparisonTable"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

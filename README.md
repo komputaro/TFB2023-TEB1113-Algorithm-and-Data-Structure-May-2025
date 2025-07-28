@@ -16,3 +16,11 @@ ID : 24003464
 | LAB 7 | 1. [Tree](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/blob/86ff1d0762db1242b3a08f8ebfe89e5a46770de9/LAB%207/Tree.cpp) |
 | LAB 8 | 1. [Binary Search Tree](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/tree/7abe05630149bd96c609ce1e600ca9a304230ebe/LAB%208) |
 | LAB 9 | 1. [Breadth First Search](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/tree/7abe05630149bd96c609ce1e600ca9a304230ebe/LAB%209) |
+<br>
+<br>
+FINAL PROJECT ([LINK](https://github.com/komputaro/TFB2023-TEB1113-Algorithm-and-Data-Structure-May-2025/tree/d440352d2edf5b9551f2e5db760097c3e320831a/Final%20project))
+<br>
+SearchCompare : Linear Search Vs Binary Search
+<br>
+SearchCompare is a simple web-based visualization tool that demonstrates how Linear Search and Binary Search work. <br>
+Users can input a list of numbers and a target value to see, step by step, how each algorithm searches the list, how many steps they take, and when one might be more efficient than the other.
